@@ -91,7 +91,7 @@ function SignUp () {
                     <span>
                     </span>
                 </label>
-                <button type="submit" className="submit1">Sign Up</button>
+                <button type="submit" className="submit1" onClick={handleSubmit}>Sign Up</button>
                 <p className="signin">
                     Already have an acount?&nbsp;&nbsp;
                     <a href="/SignIn">Sign in</a>
