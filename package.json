@@ -1,0 +1,20 @@
+{
+  "name": "sneakerheads",
+  "version": "1.0.0",
+  "description": "E-commerce de sneakers construido con React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sneakers",
+    "React",
+    "Vite",
+    "Ecommerce"
+  ],
+  "author": "Sara Gallego Sandoval",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.3.8"
+  }
+}

@@ -1,0 +1,277 @@
+{
+    "adidas": [
+        {
+            "id": 1,
+            "name": "Adidas Superstar",
+            "brand": "Adidas",
+            "gender": "Men",
+            "price": 99.00,
+            "image": "/A1.svg"
+        },
+
+        {
+            "id": 2,
+            "name": "Adidas Forum 84 Low Aec",
+            "brand": "Adidas",
+            "gender": "Women",
+            "price": 150.00,
+            "image": "/A2.svg"
+        },
+
+        {
+            "id": 3,
+            "name": "Adidas Adi2000",
+            "brand": "Adidas",
+            "gender": "Men",
+            "price": 120.00,
+            "image": "/A3.svg"
+        },
+
+        {
+            "id": 4,
+            "name": "Adidas Top Ten RB",
+            "brand": "Adidas",
+            "gender": "Men",
+            "price": 100.00,
+            "image": "/A4.svg"
+        },
+
+        {
+            "id": 5,
+            "name": "Adidas Forum Exhibit Mid",
+            "brand": "Adidas",
+            "gender": "Men",
+            "price": 120.00,
+            "image": "/A5.svg"
+        },
+
+        {
+            "id": 6,
+            "name": "Adidas Rivalry Low 86",
+            "brand": "Adidas",
+            "gender": "Women",
+            "price": 135.00,
+            "image": "/A6.svg"
+        },
+
+        {
+            "id": 7,
+            "name": "Adidas Yeezy 350 V2 ONYX",
+            "brand": "Adidas",
+            "gender": "Men",
+            "price": 300.00,
+            "image": "/A7.svg"
+        },
+
+        {
+            "id": 8,
+            "name": "Adidas Superstar",
+            "brand": "Adidas",
+            "gender": "Women",
+            "price": 100.00,
+            "image": "/A8.svg"
+        },
+
+        {
+            "id": 9,
+            "name": "Adidas Campus 00s",
+            "brand": "Adidas",
+            "gender": "Women",
+            "price": 150.00,
+            "image": "/A9.svg"
+        },
+
+        {
+            "id": 10,
+            "name": "Adidas Campus 00s",
+            "brand": "Adidas",
+            "gender": "Women",
+            "price": 150.00,
+            "image": "/A10.svg"
+        }
+    ],
+
+    "nike": [
+        {
+            "id": 1,
+            "name": "Nike Air Force 1 '07 Prm",
+            "brand": "Nike",
+            "gender": "Women",
+            "price": 400.00,
+            "image": "/N1.svg"
+        },
+
+        {
+            "id": 2,
+            "name": "Nike Air Force 1",
+            "brand": "Nike",
+            "gender": "Men",
+            "price": 200.00,
+            "image": "/N2.svg"
+        },
+
+        {
+            "id": 3,
+            "name": "Nike Dunk Retro Panda",
+            "brand": "Nike",
+            "gender": "Women",
+            "price": 350.00,
+            "image": "/N3.svg"
+        },
+
+        {
+            "id": 4,
+            "name": "Nike Dunk High Athletic Club",
+            "brand": "Nike",
+            "gender": "Men",
+            "price": 240.00,
+            "image": "/N4.svg"
+        },
+
+        {
+            "id": 5,
+            "name": "Nike Air Max 90 SE Armx",
+            "brand": "Nike",
+            "gender": "Men",
+            "price": 400.00,
+            "image": "/N5.svg"
+        },
+
+        {
+            "id": 6,
+            "name": "Nike Dunk High 1985 Pink Denim",
+            "brand": "Nike",
+            "gender": "Women",
+            "price": 380.00,
+            "image": "/N6.svg"
+        },
+
+        {
+            "id": 7,
+            "name": "Nike Air Force 1 Mid",
+            "brand": "Nike",
+            "gender": "Men",
+            "price": 220.00,
+            "image": "/N7.svg"
+        },
+
+        {
+            "id": 8,
+            "name": "Nike Dunk High Light Chocolate",
+            "brand": "Nike",
+            "gender": "Men",
+            "price": 380.00,
+            "image": "/N8.svg"
+        },
+
+        {
+            "id": 9,
+            "name": "Nike Blazer Mid '77 Jumbo",
+            "brand": "Nike",
+            "gender": "Women",
+            "price": 370.00,
+            "image": "/N9.svg"
+        },
+
+        {
+            "id": 10,
+            "name": "Nike Blazer Mid '77 Next Nature",
+            "brand": "Nike",
+            "gender": "Women",
+            "price": 220.00,
+            "image": "/N10.svg"
+        }
+    ],
+
+    "jordan": [
+        {
+            "id": 1,
+            "name": "Jordan Air Retro 4",
+            "brand": "Jordan",
+            "gender": "Men",
+            "price": 580.00,
+            "image": "/J1.svg"
+        },
+
+        {
+            "id": 2,
+            "name": "Jordan Air Retro 3",
+            "brand": "Jordan",
+            "gender": "Men",
+            "price": 500.00,
+            "image": "/J2.svg"
+        },
+
+        {
+            "id": 3,
+            "name": "Air Jordan 1 Retro High OG",
+            "brand": "Jordan",
+            "gender": "Men",
+            "price": 300.00,
+            "image": "/J3.svg"
+        },
+
+        {
+            "id": 4,
+            "name": "Air Jordan 1 Low",
+            "brand": "Jordan",
+            "gender": "Women",
+            "price": 280.00,
+            "image": "/J4.svg"
+        },
+
+        {
+            "id": 5,
+            "name": "Jordan Air 5",
+            "brand": "Jordan",
+            "gender": "Men",
+            "price": 620.00,
+            "image": "/J5.svg"
+        },
+
+        {
+            "id": 6,
+            "name": "Jordan Air 4 Cement",
+            "brand": "Jordan",
+            "gender": "Men",
+            "price": 540.00,
+            "image": "/J6.svg"
+        },
+
+        {
+            "id": 7,
+            "name": "Air Jordan 1 Retro High OG Chicago",
+            "brand": "Jordan",
+            "gender": "Women",
+            "price": 210.00,
+            "image": "/J7.svg"
+        },
+
+        {
+            "id": 8,
+            "name": "Air Jordan 1 Bloodline",
+            "brand": "Jordan",
+            "gender": "Women",
+            "price": 245.00,
+            "image": "/J8.svg"
+        },
+
+        {
+            "id": 9,
+            "name": "Air Jordan 1 Retro High OG Royal Blue",
+            "brand": "Jordan",
+            "gender": "Women",
+            "price": 200.00,
+            "image": "/J9.svg"
+        },
+
+        {
+            "id": 10,
+            "name": "Air Jordan 1 OG Pollen",
+            "brand": "Jordan",
+            "gender": "Women",
+            "price": 267.00,
+            "image": "/J10.svg"
+        }
+    ]
+}
