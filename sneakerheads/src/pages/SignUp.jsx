@@ -36,6 +36,8 @@ function SignUp () {
         if (password !== confirmPassword) {
         alert("Las contraseñas no coinciden");
         return;
+        }else{
+            alert("Bienvenido a SNEAKERHEADS")
         }
 
         // Crear un objeto con los datos del usuario
