@@ -20,10 +20,10 @@ function MyAccount () {
 
         return (
             <div>
-                <h1>My Account</h1>
+                <h1 className="cuenta">My Account</h1>
                 <h3>Welcome, {userData.firstName} {userData.lastName}!</h3>
                 <p>Email: {userData.email}</p>
-                <button onClick={handleSignOut}>Cerrar sesión</button>
+                <button className="close" onClick={handleSignOut}>Cerrar sesión</button>
             </div>
         )
     }
